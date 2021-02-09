@@ -2,9 +2,9 @@ from __future__ import print_function
 import random
 
 buzz = ('continuous testing', 'continuous integration', 'continuous deployment', 'continuous improvement', 'devops')
-adjectives = ('complete', 'modern', 'self-service', 'integrated', 'end-to-end')
-adverbs = ('remarkably', 'enormously', 'substantially', 'significantly', 'seriously')
-verbs = ('accelerates', 'improves', 'enhances', 'revamps', 'boosts')
+adjectives = ('full', 'cutting-edge', 'automatic', 'contained', 'total')
+adverbs = ('amazinglyly', 'massively', 'completely', 'totally', 'honestly')
+verbs = ('increases', 'values', 'betters', 'upgrades', 'quickens')
 
 def sample(l, n = 1):
     result = random.sample(l, n)
